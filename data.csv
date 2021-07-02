@@ -1,0 +1,52 @@
+Crisis,Pandemic,DSPEC,
+Crisis,Disinformation campaigns,DSPEM,
+Crisis,Terrorist attack,DSPCM,
+Crisis,Economic strangulation,DPECM,
+Crisis,Cyber attack on infrastructure,DSECM,
+Crisis,Military conflict,PSECM,
+Defence,NSmen on guard,M,1
+Defence,NSmen on guard,M,1
+Defence,Naval convoys,M,2
+Defence,Increased security checks,M,2
+Defence,Conduct of raids,M,3
+Defence,Prepared for crisis,C,2
+Defence,Prepared for crisis,C,2
+Defence,Alert community,C,1
+Defence,Alert community,C,1
+Defence,Civil emergency,C,3
+Defence,Business resilience,E,1
+Defence,Career mobility,E,1
+Defence,Financial aid schemes,E,2
+Defence,Increase surveillance at maritime ports,E,2
+Defence,Skills upgrading,E,3
+Defence,Religious counselling,S,4
+Defence,Religious counselling,S,4
+Defence,Neighbourliness,S,5
+Defence,Neighbourliness,S,5
+Defence,Show of solidarity,S,6
+Defence,Education,P,4
+Defence,Education,P,4
+Defence,Attend national day celebrations,P,5
+Defence,Attend national day celebrations,P,5
+Defence,Strong resolve,P,6
+Defence,Use of strong passwords,D,4
+Defence,Use of strong passwords,D,4
+Defence,Robust emergency protocols,D,5
+Defence,Robust emergency protocols,D,5
+Defence,Responsible social media use,D,6
+Community,Community support,,
+Community,Community support,,
+Community,Community support,,
+Community,Community support,,
+Event,Disgruntled NSmen,,7
+Event,Heightened terrorist alert,,8
+Event,Blood bank runs dry,,7
+Event,Desensitised citizens,,9
+Event,Criminal collaboration,,7
+Event,Recruiting desperate people,,8
+Event,Racial and religious tension,,9
+Event,Lone wolf attack,,8
+Event,Self radicalisation,,8
+Event,Complaint culture,,7
+Event,Ransomware attack,,7
+Event,Stolen personal data,,9
